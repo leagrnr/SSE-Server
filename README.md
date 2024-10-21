@@ -26,7 +26,7 @@ exercice
 
 4. commencer l'exercice
    - Initier un projet React
-   - Implémenter une carte Woosmap sur la page principale
+   - Implémenter une carte Woosmap sur la page principale (documentation: https://developers.woosmap.com)
    - Se connecter au server SSE
    - Afficher un marker sur la carte actualisé en fonction du message reçu.
 
