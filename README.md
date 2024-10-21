@@ -23,3 +23,13 @@ exercice
    ```sh
     npm start
     ```
+
+4. commencer l'exercice
+   - Initier un projet React
+   - Implémenter une carte Woosmap sur la page principale
+   - Se connecter au server SSE
+   - Afficher un marker sur la carte actualisé en fonction du message reçu.
+
+   
+
+
